@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.guess {
+  margin-top:80px;
+  margin-left:600px;
+  margin-right:600px;
+  height:600px;
+  width : 500px;
+}
+.bcolor {
+  height:70%;
+  width : 100%;
+}
+.choices {
+  display:flex;
+  margin-top:50px;
+
+}
+.btn {
+  font-size:20px;
+  padding:10px;
+  margin-right:80px;
+}
+.right {
+  color : green;
+  content:"your are correct";
+  margin-top:10px;
+  font-size :20px;
+}
+.wrong {
+  color : red;
+  content : "you are wrong";
+  margin-top:10px;
+  font-size :20px;
+}
