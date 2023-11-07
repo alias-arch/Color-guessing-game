@@ -25,13 +25,11 @@
 }
 .right {
   color : green;
-  content:"your are correct";
   margin-top:10px;
   font-size :20px;
 }
 .wrong {
   color : red;
-  content : "you are wrong";
   margin-top:10px;
   font-size :20px;
 }
